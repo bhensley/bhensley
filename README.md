@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhensley
 - 👀 I’m interested in web development, data, and systems
-- 🌱 I’m currently learning Go and more C# stuff (Blazor right now)
+- 🌱 I’m currently learning Go and more C# stuff (Blazor right now), while casually dabbling in Rust
 
 <!---
 bhensley/bhensley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
